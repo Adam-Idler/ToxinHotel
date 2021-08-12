@@ -2630,7 +2630,7 @@ body {
     width: 290px; } }
 
 @media (max-width: 1060px) {
-  .search-room__dropdown {
+  .search-room__aside .dropdown {
     width: 240px; } }
 
 @media (max-width: 1090px) {
